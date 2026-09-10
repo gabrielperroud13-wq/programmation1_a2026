@@ -17,11 +17,11 @@ croquettes = 100
 
 Donnez la valeur **et le type** (`int` ou `float`) de chaque expression :
 
-1. `croquettes / chats`
-2. `croquettes // chats`
-3. `croquettes % chats`
-4. `chats ** 2`
-5. `chats % 2`
+1. `croquettes / chats` 5.88
+2. `croquettes // chats` 5
+3. `croquettes % chats` 15
+4. `chats ** 2` 289
+5. `chats % 2` 1
 
 > 💡 La question 5 répond à : « le nombre de chats est-il pair ou impair? »
 
