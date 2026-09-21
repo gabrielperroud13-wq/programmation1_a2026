@@ -8,7 +8,7 @@ else:
 
 
 
-age = 5
+age = int(input("Donne Moi un age45"))
 
 if age >= 18:
     print("majeur")
@@ -16,7 +16,7 @@ else:
     print("mineur")
 
 
-MDP = "12345678"
+MDP = (input("Donne Moi un Mot de passe"))
 
 if len(MDP) >= 8:
     print("Mot de passe accepté")
