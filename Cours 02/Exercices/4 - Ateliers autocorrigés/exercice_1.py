@@ -28,11 +28,15 @@ reponse_a1 = None
 #     B) Python est sensible a la casse
 #     C) Il manque un point-virgule a la fin
 #     D) La chaine de caracteres est mal fermee
+<<<<<<< HEAD
 <<<<<<< HEAD:Cours 02/Exercices/exercice_1.py
 reponse_a2 = "B"
 =======
 reponse_a2 = None
 >>>>>>> 7b78822b92246fd0f893f1e9b76f7e1a8c092784:Cours 02/Exercices/4 - Ateliers autocorrigés/exercice_1.py
+=======
+reponse_a2 = None
+>>>>>>> d2bc0a0d28f318ea14ba825ae39f7f3b8d59e6ae
 
 # A3) Quel nom de VARIABLE respecte la convention PEP 8 ?
 #     A) nbEtudiants     B) NbEtudiants     C) nb_etudiants     D) 2_etudiants
